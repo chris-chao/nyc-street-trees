@@ -1,6 +1,7 @@
 # nyc-street-trees
-Data Structures lab applying OOP principles
-This project provides  a tool for visualizing popularity of New York City street trees in different boroughs of the city.
+CSCI102 data structures lab focused on OOP principles.
+
+This project provides a tool for visualizing popularity of New York City street trees in different boroughs of the city.
 
 Utilizing the 2015 Street Tree Census data provided by Department of Parks and Recreation and a name of the tree specified by the user,
 this program generates information about the popularity of the particular type of tree in each borough of New York City.
